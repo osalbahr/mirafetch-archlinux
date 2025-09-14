@@ -56,7 +56,3 @@ To submit this package to the AUR:
    git commit -m "Initial package: mirafetch 0.1.0"
    git push
    ```
-
-## Maintainer
-
-- Osama Albahrani <osama@albahrani.com>
