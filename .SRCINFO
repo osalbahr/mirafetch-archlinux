@@ -1,0 +1,16 @@
+pkgbase = mirafetch
+	pkgdesc = A Rust reimplementation of Hyfetch with a focus on speed
+	pkgver = 0.1.0
+	pkgrel = 1
+	url = https://github.com/ArgentumCation/mirafetch
+	arch = x86_64
+	arch = i686
+	arch = aarch64
+	arch = armv7h
+	license = custom
+	makedepends = rust
+	makedepends = cargo
+	source = mirafetch-0.1.0.tar.gz::https://github.com/ArgentumCation/mirafetch/archive/a03be8e4340fbf93a29c9904393ff3721c060667.tar.gz
+	sha256sums = ea9c5d27f88d5fa777dd5a5c2e2b3137916e4557bb936d8cc5fd6b5ac726c9a1
+
+pkgname = mirafetch

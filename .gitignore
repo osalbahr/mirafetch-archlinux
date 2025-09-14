@@ -1,0 +1,13 @@
+# AUR package build artifacts
+pkg/
+src/
+*.pkg.tar.*
+*.src.tar.gz
+
+# Log files
+*.log
+
+# Temporary files
+*~
+.#*
+#*#
