@@ -10,7 +10,6 @@ makedepends=('cargo')
 license=('EUPL-1.2')
 source=("v$pkgver.tar.gz::$url/archive/refs/tags/v$pkgver.tar.gz")
 sha256sums=('7b18e17093321e2801bc15bb913fafc8e4afc824357c909423952eb200c4fe79')
-provides=('mirafetch')
 
 build() {
 	cd "$pkgname-$pkgver"
